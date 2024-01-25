@@ -1,0 +1,21 @@
+html {
+    background-color: dimgray;
+}
+body {
+    border: 3px solid rgb(38, 101, 196);
+    background-color: white;
+    min-height: 100vh;
+    max-width: 850px;
+    margin: 0 auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+    font-size: 120%;
+    text-align: center;
+}
+
+header h2 {
+    font-size: 250%;
+    text-align: center;
+}
+.bannerimage {
+    max-width: 500px;
+}
