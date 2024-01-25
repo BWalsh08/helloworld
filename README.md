@@ -1,3 +1,3 @@
 # helloworld
- Hello World (FIrst Assignment)
+ Hello World (First Assignment)
 This is my first ever website
